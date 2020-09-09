@@ -4,7 +4,7 @@ import numpy as np
 
 import neuron
 
-# Init Values
+# Init Valuesgi
 seed = 42
 training_range = 10000
 learning_rate = 0.01
